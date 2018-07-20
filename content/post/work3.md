@@ -9,11 +9,4 @@ weight = 1
 +++
 =======
 
-Empty
-
-
-
-Test
-
-
-Test
+Here's a song.

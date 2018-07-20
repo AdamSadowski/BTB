@@ -6,8 +6,8 @@ title = "Work 3"
 categories = [ "Deflection" ]
 draft = false
 weight = 1
-<<<<<<< HEAD
 +++
+=======
 
 Empty
 
@@ -17,6 +17,3 @@ Test
 
 
 Test
-=======
-+++
->>>>>>> d5d41d842536b9b90d52304da5ca76a0e14de203

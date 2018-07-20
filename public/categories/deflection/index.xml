@@ -12,18 +12,21 @@
     
     
     <item>
+      <title>New</title>
+      <link>/post/2018-07-20-new/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/post/2018-07-20-new/</guid>
+      <description>Here&amp;rsquo;s a song.</description>
+    </item>
+    
+    <item>
       <title>Work 3</title>
       <link>/post/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>/post/work3/</guid>
-<<<<<<< HEAD
-      <description>Empty
-Test
-Test</description>
-=======
-      <description></description>
->>>>>>> d5d41d842536b9b90d52304da5ca76a0e14de203
+      <description>Here&amp;rsquo;s a song.</description>
     </item>
     
   </channel>

@@ -7,7 +7,6 @@ title = "Work 4"
 categories = [ "Reflection" ]
 weight = 2
 +++
-=======
 
 Empty
 
